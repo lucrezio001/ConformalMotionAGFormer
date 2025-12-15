@@ -1,0 +1,3 @@
+[submodule "external/MotionAGFormer"]
+	path = external/MotionAGFormer
+	url = https://github.com/lucrezio001/MotionAGFormer.git
