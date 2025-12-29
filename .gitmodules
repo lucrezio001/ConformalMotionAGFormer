@@ -1,3 +1,6 @@
 [submodule "forks/MotionAGFormer"]
 	path = forks/MotionAGFormer
 	url = https://github.com/lucrezio001/MotionAGFormer.git
+[submodule "forks/P-STMO"]
+	path = forks/P-STMO
+	url = https://github.com/lucrezio001/P-STMO
