@@ -7,9 +7,6 @@
 [submodule "forks/CMTF"]
 	path = forks/CMTF
 	url = https://github.com/lucrezio001/conformal_multistep_ahead_multivariate_time_series_forecasting
-[submodule "fork/MultiDimSPCI"]
-	path = fork/MultiDimSPCI
-	url = https://github.com/lucrezio001/MultiDimSPCI
 [submodule "forks/MultiDimSPCI"]
 	path = forks/MultiDimSPCI
 	url = https://github.com/lucrezio001/MultiDimSPCI
