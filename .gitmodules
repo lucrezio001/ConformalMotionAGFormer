@@ -4,3 +4,9 @@
 [submodule "forks/P-STMO"]
 	path = forks/P-STMO
 	url = https://github.com/lucrezio001/P-STMO
+[submodule "forks/CMTF"]
+	path = forks/CMTF
+	url = https://github.com/lucrezio001/conformal_multistep_ahead_multivariate_time_series_forecasting
+[submodule "forks/MultiDimSPCI"]
+	path = forks/MultiDimSPCI
+	url = https://github.com/lucrezio001/MultiDimSPCI

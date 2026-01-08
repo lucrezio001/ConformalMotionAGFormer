@@ -1,0 +1,28 @@
+
+Linear regression
+
+SEED = 104           
+N_SPLITS = 5        
+BOOTSTRAP_NUM = 25  
+ALPHA = 0.1 
+
+REPORT TEST: Avg Coverage: 0.2732 | Avg Width: 6.7044
+
+eval MotionAGFormer
+Protocol #1 Error (MPJPE): 80.28568401877197 mm
+Acceleration error: 1.155045819942309 mm/s^2
+Protocol #2 Error (P-MPJPE): 64.6707223780856 mm
+
+
+Ridge (alpha = 1.0)
+
+SEED = 104           
+N_SPLITS = 5        
+BOOTSTRAP_NUM = 25  
+ALPHA = 0.01 
+
+REPORT TEST: Avg Coverage: 0.5964 | Avg Width: 12.6959
+
+Protocol #1 Error (MPJPE): 85.02931662898608 mm
+Acceleration error: 1.1624105454460556 mm/s^2
+Protocol #2 Error (P-MPJPE): 68.307336803018 mm
